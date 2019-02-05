@@ -1,3 +1,11 @@
+# DEPRECATED
+# New version on [https://github.com/AshDevFr/docker-spigot](https://github.com/AshDevFr/docker-spigot)
+
+
+
+
+
+
 # Minecraft server SPIGOT on Alpine
 
 [![](https://badge.imagelayers.io/ashdev/docker-alpine-spigot:latest.svg)](https://imagelayers.io/?images=ashdev/docker-alpine-spigot:latest 'Get your own badge on imagelayers.io')
