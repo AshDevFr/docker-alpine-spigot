@@ -1,5 +1,5 @@
 # DEPRECATED
-# New version on [https://github.com/AshDevFr/docker-spigot](https://github.com/AshDevFr/docker-spigot)
+# New version here: [https://github.com/AshDevFr/docker-spigot](https://github.com/AshDevFr/docker-spigot)
 
 
 
